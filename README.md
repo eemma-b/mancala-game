@@ -19,6 +19,7 @@ This application should run on any operating systems that has the JVM.  This Man
 ### Executing program
 
 How to build and run the program:
+- Gradle build to create jar file
 - Go to your computer terminal and cd to where the jar file is, it is named "GraphicalUI.jar"
 - To run the program use the jar file: java -jar GraphicalUI.jar
 
